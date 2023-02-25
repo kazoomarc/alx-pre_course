@@ -1,6 +1,3 @@
-#!/bin/bash
-0;10;1c<<<<<<< HEAD
-ref: refs/heads/main
 echo "ALX school"
 =======
 echo "ALX school is so cool"
